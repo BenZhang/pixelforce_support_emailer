@@ -28,7 +28,7 @@ class PixelSupportMailer {
     EmailContent emailContent = EmailContent(
         to: [toEmailAddress],
         subject: subject,
-        body: '''\n\n\nUser ID: $userId Fernando\nDevice: $deviceName\nApp Version: $versionNum\nOSversion: Android $systemName''');
+        body: '''\r\n\r\n\r\nUser ID: $userId Fernando\r\nDevice: $deviceName\r\nApp Version: $versionNum\r\nOSversion: Android $systemName''');
 
     OpenMailAppResult result = await OpenMailApp.composeNewEmailInMailApp(
         nativePickerTitle: 'Select email app to compose', emailContent: emailContent);
