@@ -1,6 +1,6 @@
 name: pixelforce_support_emailer
-description: A new Flutter package project.
-version: 0.0.1
+description: Flutter package to send support Emails.
+version: 0.0.2
 homepage:
 
 environment:
