@@ -1,12 +1,12 @@
 # This is a generated file; do not edit or check into version control.
-open_mail_app=/Users/ben/workspace/flutter/.pub-cache/hosted/pub.dartlang.org/open_mail_app-0.4.5/
-package_info_plus=/Users/ben/workspace/flutter/.pub-cache/hosted/pub.dartlang.org/package_info_plus-1.4.0/
-package_info_plus_macos=/Users/ben/workspace/flutter/.pub-cache/hosted/pub.dartlang.org/package_info_plus_macos-1.3.0/
-package_info_plus_web=/Users/ben/workspace/flutter/.pub-cache/hosted/pub.dartlang.org/package_info_plus_web-1.0.4/
-url_launcher=/Users/ben/workspace/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-6.0.20/
-url_launcher_android=/Users/ben/workspace/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.15/
-url_launcher_ios=/Users/ben/workspace/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_ios-6.0.15/
-url_launcher_linux=/Users/ben/workspace/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_linux-3.0.0/
-url_launcher_macos=/Users/ben/workspace/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-3.0.0/
-url_launcher_web=/Users/ben/workspace/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-2.0.9/
-url_launcher_windows=/Users/ben/workspace/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_windows-3.0.0/
+open_mail_app=/Users/benzhang/workspace/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/open_mail_app-0.4.5/
+package_info_plus=/Users/benzhang/workspace/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/package_info_plus-1.4.0/
+package_info_plus_macos=/Users/benzhang/workspace/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/package_info_plus_macos-1.3.0/
+package_info_plus_web=/Users/benzhang/workspace/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/package_info_plus_web-1.0.4/
+url_launcher=/Users/benzhang/workspace/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-6.0.20/
+url_launcher_android=/Users/benzhang/workspace/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.15/
+url_launcher_ios=/Users/benzhang/workspace/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_ios-6.0.15/
+url_launcher_linux=/Users/benzhang/workspace/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_linux-3.0.0/
+url_launcher_macos=/Users/benzhang/workspace/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-3.0.0/
+url_launcher_web=/Users/benzhang/workspace/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-2.0.9/
+url_launcher_windows=/Users/benzhang/workspace/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_windows-3.0.0/
