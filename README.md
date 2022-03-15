@@ -29,7 +29,10 @@ TODO: Include short and useful examples for package users. Add longer examples
 to `/example` folder. 
 
 ```dart
-const like = 'sample';
+import 'package:pixelforce_support_emailer/pixelforce_support_emailer.dart';
+
+PixelSupportMailer supportMailer = PixelSupportMailer(user?.id.toString());
+supportMailer.sendSupportEmail('support@test.com', subject, context);
 ```
 
 ## Additional information
