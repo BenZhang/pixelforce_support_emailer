@@ -20,8 +20,14 @@ TODO: List what your package can do. Maybe include images, gifs, or videos.
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+Add the following lines to the package's pubspec.yaml
+
+```yaml
+pixelforce_support_emailer:
+  git:
+    url: https://github.com/BenZhang/pixelforce_support_emailer.git
+    ref: 54213d9
+```
 
 ## Usage
 
